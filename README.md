@@ -1,4 +1,4 @@
-![MasterHead](https://www.hp.com/us-en/shop/app/assets/images/uploads/prod/best-desktop-computer-for-programming-and-coding1619724622982369.jpg)
+![MasterHead](https://s3.amazonaws.com/media.the-next-tech.com/wp-content/uploads/2022/09/28130132/What-Is-Coding-5-Surprising-Benefits-Of-Knowing.jpg)
 <h1 align="center">Hi 👋, I'm Calvin</h1>
 <h3 align="center">Test subtitle</h3>
 <img align="right" alt="Coding" width="400" src="https://www.shutterstock.com/image-vector/sample-stamp-rubber-style-red-260nw-1811246308.jpg">
