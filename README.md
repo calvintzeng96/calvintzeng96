@@ -1,3 +1,4 @@
+[![MasterHead](https://media.istockphoto.com/id/491520707/photo/sample-red-grunge-round-stamp-on-white-background.jpg?s=612x612&w=0&k=20&c=FW80kR5ilPkiJtXZEauGTghNBOgQviVPxAbhLWwnKZk=)]
 <h1 align="center">Hi 👋, I'm Calvin</h1>
 <h3 align="center">Test subtitle</h3>
 <img align="right" alt="Coding" width="400 src="https://media.istockphoto.com/id/491520707/photo/sample-red-grunge-round-stamp-on-white-background.jpg?s=612x612&w=0&k=20&c=FW80kR5ilPkiJtXZEauGTghNBOgQviVPxAbhLWwnKZk=" >
