@@ -1,4 +1,4 @@
-![MasterHead](https://media.istockphoto.com/id/491520707/photo/sample-red-grunge-round-stamp-on-white-background.jpg?s=612x612&w=0&k=20&c=FW80kR5ilPkiJtXZEauGTghNBOgQviVPxAbhLWwnKZk=)
+![MasterHead](https://www.hp.com/us-en/shop/app/assets/images/uploads/prod/best-desktop-computer-for-programming-and-coding1619724622982369.jpg)
 <h1 align="center">Hi 👋, I'm Calvin</h1>
 <h3 align="center">Test subtitle</h3>
 <img align="right" alt="Coding" width="400" src="https://www.shutterstock.com/image-vector/sample-stamp-rubber-style-red-260nw-1811246308.jpg">
