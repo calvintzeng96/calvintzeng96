@@ -1,4 +1,4 @@
-![MasterHead](https://s3.amazonaws.com/media.the-next-tech.com/wp-content/uploads/2022/09/28130132/What-Is-Coding-5-Surprising-Benefits-Of-Knowing.jpg)
+![image](https://user-images.githubusercontent.com/107524318/206580598-675257cc-8b66-416e-a8ac-08baf07c2247.png)
 <h1 align="center">Hi 👋, I'm Calvin</h1>
 <h3 align="center">Test subtitle</h3>
 <img align="right" alt="Coding" width="400" src="https://www.shutterstock.com/image-vector/sample-stamp-rubber-style-red-260nw-1811246308.jpg">
