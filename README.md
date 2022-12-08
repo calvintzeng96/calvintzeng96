@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/107524318/206580598-675257cc-8b66-416e-a8ac-08baf07c2247.png)
 <h1 align="center">Hi 👋, I'm Calvin</h1>
 <h3 align="center">Software Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.shutterstock.com/image-vector/sample-stamp-rubber-style-red-260nw-1811246308.jpg">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/107524318/206581480-98328466-731d-4a0a-ad80-3471d61f2093.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=calvintzeng96&label=Profile%20views&color=0e75b6&style=flat" alt="calvintzeng96" /> </p>
 
