@@ -8,13 +8,7 @@
 
 <h3 align="left">I’m currently working on:</h3>
 <h4>
-    <a href="https://tzengbook.onrender.com" target="_blank">Tzengbook</a>
-</h4>
-<h4>
-    <a href="https://airzzz.herokuapp.com" target="_blank">AirZzz</a>
-</h4>
-<h4>
-    <a href="https://calvintzeng.com" target="_blank">Calvin Tzeng Portfolio Site</a>
+    <a href="https://conservativejobs.com/" target="_blank">Conservative Jobs</a>
 </h4>
 
 <h3 align="left">Connect with me:</h3>
